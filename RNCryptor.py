@@ -173,14 +173,14 @@ def main():
 
 
     #encrypt
-    print("\n\n\n\nÃÜÎÄ:\n",en_yourimail_password)
+    print("\n\n\n\nå¯†æ–‡:\n",en_yourimail_password)
     print("\n\n\n");
     #=======================================================
 
 
 
     #decrypt
-    print("Ã÷ÎÄ:\n",de_yourimail_password)
+    print("æ˜æ–‡:\n",de_yourimail_password)
     print("\n\n\n\n\n")
     #=======================================================
 if __name__ == '__main__':
