@@ -13,3 +13,6 @@ cryptor.encrypt(Data,password)
 #解密
 cryptor.decrypt(Data,password)
 ```
+
+
+![](assets/markdown-img-paste-20180802133443449.png)
