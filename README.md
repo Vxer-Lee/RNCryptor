@@ -2,7 +2,7 @@
 RNCryptor加密解密Python代码
 
 
-####**Dependencies**
+#### **Dependencies**
 
 /assets/pycrypto-2.6.1.tar.gz
 ```bash
@@ -10,7 +10,7 @@ tar -zxvf /assets/pycrypto-2.6.1.tar.gz
 sudo python setup.py install
 ```
 
-####**用法**
+#### **用法**
 ```bash
 python RNCryptor.py
 ```
